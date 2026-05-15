@@ -8,10 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "rakibul263 <rakibulhasanshuvo206@gmail.com>",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": "https://github.com/rakibul263/Uptime-Monitoring-Application.git"
 }
